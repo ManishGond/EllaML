@@ -1,0 +1,3 @@
+0 Liver Cancer 
+1 Blood Cancer
+2 Lung Cancer

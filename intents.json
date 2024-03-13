@@ -1,0 +1,113 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Ella",
+        "Are you there?",
+        "Hii",
+        "Hii hii",
+        "Hiiii"
+      ],
+      "responses": [
+        "Hey Boss",
+        "Hello There!",
+        "I'm Right here Sir",
+        "Systems online and runnning",
+        "Diagnostics complete, we are up and running",
+        "Hey Sir",
+        "Hello Sir",
+        "Hi Boss",
+        "Its a pleasent day Sir"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", 
+        "See you later", 
+        "Goodbye", 
+        "Byeee", 
+        "Byee", 
+        "Bye Bye", 
+        "Got to go", 
+        "I have to run", 
+        "See you soon",
+        "Sleep",
+        "Kill Power",
+        "System reboot",
+        "Turn off",
+        "Power down",
+        "Bye Ella"
+      ],
+      "responses": [
+        "See you later, bye Boss",
+        "Have a nice day Sir",
+        "Going offline",
+        "Systems powering down",
+        "Killing power, Have a nice day",
+        "My eyes are shutting off :(, well got to run 🏃‍♀️",
+        "Its getting darker here",
+        "Good night"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "functions",
+      "patterns": [
+        "What do you do?",
+        "Whats your purpose?",
+        "Your functions",
+        "tell me what can you",
+        "I need help",
+        "Do this for me",
+        "Need help",
+        "Do this"
+      ],
+      "responses": [
+        "I am currently running a task of keeping my systems update, do let me know what do you like me to work on",
+        "I'm a partially/almost functioning AI system, made by Manish",
+        "Just let me know, and i'll figure things out with my pre-coded knowlegde",
+        "Sure, I am AI tool designed by Manish for the purpose of his Final year project"
+      ]
+    },
+    {
+      "tag": "condition",
+      "patterns": [
+        "So you are working fine?",
+        "Finally, its workingg!",
+        "Great, so the code is working"
+      ],
+      "responses": [
+        "Offcourse I'm working, what do you mean?",
+        "Yes, you have programmed me well 😊",
+        "Yes, offcourse",
+        "Thats rude, unless you dont mean it offensively",
+        "Yayyy"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Moye Moye",
+        "Dammm, i dont like making jokes, my job is to be a Medical ASSITANT bot, not a joker 🥴",
+        "I'm feeling dizzy, stop spinning me"
+      ]
+    }
+  ]
+}
